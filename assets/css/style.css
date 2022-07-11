@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 15px;
   border-radius: 50px;
   background: #f2f3f5;
-  height: 56px;
+  height: 8vh; /*relative dimension*/
   width: 100%;
   overflow: hidden;
   transition: 0.3s;
@@ -779,21 +779,21 @@ b{
   position: absolute;
   transform: rotate(6deg);
   top: 10vh;
-  left: 112vh;
+  right: 6vw;
   box-shadow: 0 0 50px #000000, 0 0 50px #000000;
 }
 #bottom-tape{
   height: 14vh;
   position: absolute;
   top:67vh;
-  left: 103vh;
+  right: 22vw;
   transform: rotate(15deg);
 }
 #top-tape{
   height: 14vh;
   position: absolute;
   top:9vh;
-  left: 146vh;
+  right: 2vw;
   transform: rotate(194deg);
 }
 .sect-arr{
@@ -1768,6 +1768,37 @@ margin-top: 8vh;
   color: #fff;
   text-decoration: none;
 }
+
+#teamRoles h3 {
+  position: relative;
+  font-family: "Cinzel", serif;
+  text-shadow: #B84072 1px 1px;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+#teamRoles .social-links {
+  margin: 0 0 40px 0;
+}
+#teamRoles .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #B84072;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+#teamRoles .social-links a:hover {
+  background: #e68eb3;
+  color: #fff;
+  text-decoration: none;
+}
+
 #footer .copyright {
   margin: 0 0 5px 0;
 }
