@@ -422,13 +422,13 @@ b{
 .down-arr{
   width: 16vh;
   height: 16vh;
-  background-image: url("assets/img/down.png");
+  background-image: url("Forever-Young-Lucida-Mansi-Experience/assets/img/down.png");
   background-position: center;
   background-size: 45%;
   background-repeat: no-repeat;
 }
 .down-arr:hover{
-  background-image: url("assets/img/down-hover.png");
+  background-image: url("Forever-Young-Lucida-Mansi-Experience/assets/img/down-hover.png");
 }
 .titlePart2{
   font-family: "Cinzel", serif;
