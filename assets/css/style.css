@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 15px;
   border-radius: 50px;
   background: #f2f3f5;
-  height: 8vh; /*relative dimension*/
+  height: 10vh; /*relative dimension*/
   width: 100%;
   overflow: hidden;
   transition: 0.3s;
@@ -635,6 +635,7 @@ b{
   height: 44.7vh;
   position: absolute;
   top: 34vh;
+  left: 3vw;
 }
 #firstph:hover{
   background-color: rgba(184,64,114,0.7);
@@ -670,7 +671,7 @@ b{
   height: 44.7vh;
   position: absolute;
   top: 34vh;
-  left:41.2vh;
+  left:25vw;
 }
 #secondph:hover{
   background-color: rgba(36, 35, 35, 0.7);
@@ -690,7 +691,7 @@ b{
   height: 44.7vh;
   position: absolute;
   top: 34vh;
-  left:79.3vh;
+  left: 45vw;
 }
 #thirdph:hover{
   background-color: rgba(184,64,114,0.7);
@@ -710,7 +711,7 @@ b{
   height: 44.7vh;
   position: absolute;
   top: 34vh;
-  left:119.93vh;
+  left:68vw;
 }
 #fourthph:hover{
   background-color: rgba(36, 35, 35, 0.7);
@@ -779,22 +780,25 @@ b{
   position: absolute;
   transform: rotate(6deg);
   top: 10vh;
-  right: 6vw;
+  right: 3vw;
   box-shadow: 0 0 50px #000000, 0 0 50px #000000;
+  z-index: -2;
 }
 #bottom-tape{
   height: 14vh;
   position: absolute;
   top:67vh;
-  right: 22vw;
+  right: 19vw;
   transform: rotate(15deg);
+  z-index: -1;
 }
 #top-tape{
   height: 14vh;
   position: absolute;
   top:9vh;
-  right: 2vw;
+  right: 0vw;
   transform: rotate(194deg);
+  z-index: -1;
 }
 .sect-arr{
   width: 50vh;
