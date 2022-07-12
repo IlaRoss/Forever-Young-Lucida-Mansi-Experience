@@ -422,13 +422,13 @@ b{
 .down-arr{
   width: 16vh;
   height: 16vh;
-  background-image: url("/assets/img/down.png");
+  background-image: url("assets/img/down.png");
   background-position: center;
   background-size: 45%;
   background-repeat: no-repeat;
 }
 .down-arr:hover{
-  background-image: url("/assets/img/down-hover.png");
+  background-image: url("assets/img/down-hover.png");
 }
 .titlePart2{
   font-family: "Cinzel", serif;
@@ -470,7 +470,7 @@ b{
 --------------------------------------------------------------*/
 
 #lucida-bg{
-  background-image: url("/assets/img/LucidaPortrait.png");
+  background-image: url("assets/img/LucidaPortrait.png");
   background-repeat:no-repeat;
   background-size: 70vh;
   background-position: bottom 10vh right 5vh;
@@ -483,7 +483,7 @@ b{
   padding-right: 52vh;
 }
 #context .container{
-  background-image: url("/assets/img/Color-Stain-bg.png");
+  background-image: url("assets/img/Color-Stain-bg.png");
   background-repeat:no-repeat;
   background-size: 90vh;
   background-position: bottom 26vh left 5vh;
@@ -513,7 +513,7 @@ b{
   margin-top: 6vh;
 }
 #half-mansi{
-  background-image: url("/assets/img/SalottiParata2.png");
+  background-image: url("assets/img/SalottiParata2.png");
   width:72vh;
   height: 72vh;
   background-size: 98%;
@@ -523,7 +523,7 @@ b{
   background-repeat: no-repeat;
 }
 #half-smichele{
-  background-image:url("/assets/img/Half-SanMichele.png");
+  background-image:url("assets/img/Half-SanMichele.png");
   width:72vh;
   height: 72vh;
   background-size: 98%;
@@ -656,14 +656,14 @@ b{
 .location{
   width: 16vh;
   height: 16vh;
-  background-image: url("/assets/img/location.png");
+  background-image: url("assets/img/location.png");
   background-position: center;
   background-size: 45%;
   background-repeat: no-repeat;
   padding-top: 5vh;
 }
 .location:hover{
-  background-image: url("/assets/img/location-hover.png"); 
+  background-image: url("assets/img/location-hover.png"); 
 }
 #secondph{
   width: 38.1vh;
@@ -799,7 +799,7 @@ b{
 .sect-arr{
   width: 50vh;
   height: 20vh;
-  background-image: url("/assets/img/down.png");
+  background-image: url("assets/img/down.png");
   background-position: center;
   background-size: 15%;
   background-repeat: no-repeat;
@@ -808,7 +808,7 @@ b{
   color:white;
 }
 .sect-arr:hover{
-  background-image: url("/assets/img/down-hover.png");
+  background-image: url("assets/img/down-hover.png");
   color:#e68eb3;
 }
 /*--------------------------------------------------------------
@@ -1095,7 +1095,7 @@ b{
   padding:2vh;
 }
 #goalsReq{
-  background-image: url("/assets/img/Color-Stain-bw.png");
+  background-image: url("assets/img/Color-Stain-bw.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1114,7 +1114,7 @@ b{
 #goalsReq2 .list{
   height:80px;
   width: 100px;
-  background-image: url("/assets/img/list.png");
+  background-image: url("assets/img/list.png");
   background-repeat: no-repeat;
   background-position: center right;
 }
@@ -1171,7 +1171,7 @@ margin-top: 8vh;
 #goalsReq3 .list{
   height:86px;
   width: 110px;
-  background-image: url("/assets/img/list.png");
+  background-image: url("assets/img/list.png");
   background-repeat: no-repeat;
   background-position: center right;
 }
@@ -1231,7 +1231,7 @@ margin-top: 8vh;
 #goalsReq4 .list{
   height:88px;
   width: 110px;
-  background-image: url("/assets/img/list.png");
+  background-image: url("assets/img/list.png");
   background-repeat: no-repeat;
   background-position: top right;
 }
@@ -1290,7 +1290,7 @@ margin-top: 8vh;
 #goalsReq5 .list{
   height:80px;
   width: 110px;
-  background-image: url("/assets/img/list.png");
+  background-image: url("assets/img/list.png");
   background-repeat: no-repeat;
   background-position: top right;
 }
