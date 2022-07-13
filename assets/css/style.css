@@ -796,7 +796,7 @@ b{
   position: absolute;
   transform: rotate(6deg);
   top: 0vh;
-  right: 3vw;
+  right: 0vw;
   z-index: -2;
 }
 .sect-arr{
