@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 15px;
   border-radius: 50px;
   background: #f2f3f5;
-  height: 10vh; /*relative dimension*/
+  height: 7vh; /*relative dimension*/
   width: 100%;
   overflow: hidden;
   transition: 0.3s;
