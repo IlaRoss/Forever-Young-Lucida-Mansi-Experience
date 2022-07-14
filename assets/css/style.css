@@ -533,14 +533,15 @@ b{
   background-repeat: no-repeat;
 }
 #context2-right{
-  padding-top: 9vh;
+  padding-top: 0vh;
+  font-size: 3vh;
 }
 #context2-right p, #context2-right h2{
   text-align: left;
   padding-left: 0;
 }
 #context2 p{
-  padding-right: 30vh;
+  padding-right: 20vh;
 }
 #context2 h2{
   font-size: 5.5vh;
@@ -571,7 +572,7 @@ b{
   left: calc(10% - 60px);
 }
 #context2 .down-arr{
-  margin-top: 14vh;
+  margin-top: 8vh;
 }
 #context3 h2{
   font-size: 5.5vh;
@@ -625,6 +626,9 @@ b{
 }
 #context4 h2{
   margin-top: 0;
+}
+#context4 p{
+  font-size: 2.8vh;
 }
 #firstph{
   width: 100%;
