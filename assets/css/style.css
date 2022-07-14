@@ -541,7 +541,7 @@ b{
   padding-left: 0;
 }
 #context2 p{
-  padding-right: 20vh;
+  padding-right: 16vh;
 }
 #context2 h2{
   font-size: 5.5vh;
@@ -572,7 +572,7 @@ b{
   left: calc(10% - 60px);
 }
 #context2 .down-arr{
-  margin-top: 8vh;
+  margin-top: 4vh;
 }
 #context3 h2{
   font-size: 5.5vh;
